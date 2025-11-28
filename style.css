@@ -1,5 +1,5 @@
 body {
-    background-color: #001f33;
+    background-color: #932cf3;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     margin: 0;
@@ -21,8 +21,8 @@ main {
 }
 
 button {
-    background-color: #004466;
-    color: white;
+    background-color: #370775;
+    color:white;
     border: none;
     padding: 10px 20px;
     margin: 10px auto;
@@ -33,5 +33,5 @@ button {
 }
 
 button:hover {
-    background-color: #006699;
+    background-color: #6a0f9e;
 }
